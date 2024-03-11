@@ -75,7 +75,7 @@ I welcome contributions to improve the accuracy and efficiency of our fake accou
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 
